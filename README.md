@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
 
 <p>
