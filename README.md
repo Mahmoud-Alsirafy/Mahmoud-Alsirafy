@@ -9,7 +9,7 @@
 - 🎓 I'm currently studying *Business Information Systems* at *Obour Higher Institutes – El Obour, Egypt*
 - 🧠 Focused on Back-End development using *PHP* and *Laravel*
 - 🔍 Passionate about solving real-world problems with clean code and solid database design
-- ⚙ Skilled in building dynamic web applications and RESTful APIs
+- ⚙ Skilled in Laravel-based web development and MySQL — currently learning API integrations Skilled in building dynamic web applications and RESTful APIs
 - 🚀 Currently working on a graduation project in the health tech field
 - 📚 Always learning and improving — especially in **Laravel**, **MySQL**
 
